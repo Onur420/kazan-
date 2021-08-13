@@ -1,0 +1,7 @@
+echo "# kazan-" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git branch -M main 
+git remote add Origin git@github.com:Onur420/kazan-.git
+ git push - asıl sen
